@@ -1,6 +1,8 @@
 @extends('Backend.Candidat.candidat')
 @section('content')
 
+
+
 <!-- Header Container
 ================================================== -->
 
